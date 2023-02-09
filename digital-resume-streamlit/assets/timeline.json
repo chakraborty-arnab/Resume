@@ -9,13 +9,13 @@
         },
         "media":
         {
-            "url":"https://media.licdn.com/dms/image/C4D22AQH8_nTVQt6t-g/feedshare-shrink_1280/0/1662593894630?e=1678924800&v=beta&t=bgY2oEJDtkz9K2uJjikKHHZ5wclze__kurzjxhasRNg",
-            "credit":"Mumbai University",
+            "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/BE-grad.jpg?raw=true",
+            "credit":"Convocation Ceremony, Mumbai",
             "link":"https://mu.ac.in/"
         },
         "text":
         {
-            "headline":"Bachelor's in Computer Engineering Degree Conferred!",
+            "headline":"Bachelor's in Computer Engineering Conferred!",
             "text":"Completed Bachelor of Engineering in Computer Science from Mumbai University and mastered a diverse range of subjects including web design, database management, cloud computing, AI & ML."
         }
         },
@@ -27,14 +27,14 @@
             },
             "media":
             {
-                "url":"joined-Q.jpeg",
-                "credit":"Quantiphi",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/joined-Q.jpeg?raw=true",
+                "credit":"First Day at work",
                 "link":"https://quantiphi.com/#home"
             },
             "text":
             {
                 "headline":"A Fresh Face in AI",
-                "text":""
+                "text":"Debuted at Quantiphi, an award-winning Applied AI and Software Services company, as a Business Analyst in June 2019. My role could be summed up better as a 'Synthetic Unicorn', a term coined by Quantiphi to underline a remarkable professional with in-depth expertise in data engineering, statistics and business, collaborating to chase innovation"
             }
         },
         {
@@ -45,14 +45,14 @@
             },
             "media":
             {
-                "url":"GCP-ACE.png",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/GCP-ACE.png?raw=true",
                 "credit":"GCP Associate Cloud Engineer",
                 "link":"https://www.credential.net/d8acaa5e-b8e1-43f2-92ed-f9fd4e5a2608?key=4f664fdad65853f47be8b7f39f4874a3d422760ecf78cda983c40b3c9f7f27fa"
             },
             "text":
             {
                 "headline":"Navigating the Clouds",
-                "text":"This involved extracting lab parameters from pdf reports received by Tata 1mg. An inhouse solution Lab Labeler was devised using Airflow & AWS Lambda digitizing 4k reports/hour"
+                "text":"Successfully completed Google Cloud Platform (GCP) Associate Cloud Engineer certification, demonstrating proficiency in using GCP tools and services to migrate and deploy applications, monitor resource utilization, and ensure security and compliance"
             }
         },
         {
@@ -63,7 +63,7 @@
             },
             "media":
             {
-                "url":"GCP-ACE.png",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/Tableau.png?raw=true",
                 "credit":"Tableau Desktop Specialist",
                 "link":"https://www.credly.com/badges/8fda551d-d84d-47d4-94da-1f44964ae6b9/linked_in_profile"
             },
