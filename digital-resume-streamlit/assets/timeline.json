@@ -1,0 +1,113 @@
+{
+    "events": 
+    [   
+        {
+        "start_date":
+        {
+            "year":"2019",
+            "month":"5"
+        },
+        "media":
+        {
+            "url":"https://media.licdn.com/dms/image/C4D22AQH8_nTVQt6t-g/feedshare-shrink_1280/0/1662593894630?e=1678924800&v=beta&t=bgY2oEJDtkz9K2uJjikKHHZ5wclze__kurzjxhasRNg",
+            "credit":"Mumbai University",
+            "link":"https://mu.ac.in/"
+        },
+        "text":
+        {
+            "headline":"Bachelor's in Computer Engineering Degree Conferred!",
+            "text":"Completed Bachelor of Engineering in Computer Science from Mumbai University and mastered a diverse range of subjects including web design, database management, cloud computing, AI & ML."
+        }
+        },
+        {
+            "start_date":
+            {
+                "year":"2019",
+                "month":"6"
+            },
+            "media":
+            {
+                "url":"joined-Q.jpeg",
+                "credit":"Quantiphi",
+                "link":"https://quantiphi.com/#home"
+            },
+            "text":
+            {
+                "headline":"A Fresh Face in AI",
+                "text":""
+            }
+        },
+        {
+            "start_date":
+            {
+                "year":"2019",
+                "month":"10"
+            },
+            "media":
+            {
+                "url":"GCP-ACE.png",
+                "credit":"GCP Associate Cloud Engineer",
+                "link":"https://www.credential.net/d8acaa5e-b8e1-43f2-92ed-f9fd4e5a2608?key=4f664fdad65853f47be8b7f39f4874a3d422760ecf78cda983c40b3c9f7f27fa"
+            },
+            "text":
+            {
+                "headline":"Navigating the Clouds",
+                "text":"This involved extracting lab parameters from pdf reports received by Tata 1mg. An inhouse solution Lab Labeler was devised using Airflow & AWS Lambda digitizing 4k reports/hour"
+            }
+        },
+        {
+            "start_date":
+            {
+                "year":"2020",
+                "month":"01"
+            },
+            "media":
+            {
+                "url":"GCP-ACE.png",
+                "credit":"Tableau Desktop Specialist",
+                "link":"https://www.credly.com/badges/8fda551d-d84d-47d4-94da-1f44964ae6b9/linked_in_profile"
+            },
+            "text":
+            {
+                "headline":"Data Savvy and Certified",
+                "text":"Completed the Tableau Desktop Specialist certification, demonstrating expertise in utilizing the Tableau platform to effectively create, manage, and publish interactive data visualizations and dashboards. Acquired advanced skills in delivering data-driven insights to drive informed decisions for businesses."
+            }
+        },
+        {
+            "start_date":
+            {
+                "year":"2021",
+                "month":"6"
+            },
+            "media":
+            {
+                "url":"https://miro.medium.com/max/1000/1*d6tqQqSjxBQ8kvcWjLjm8w.png",
+                "credit":"Tata 1mg"
+            },
+            "text":
+            {
+                "headline":"Transitioning to a Leadership Role",
+                "text":"This involved extracting lab parameters from pdf reports received by Tata 1mg. An inhouse solution Lab Labeler was devised using Airflow & AWS Lambda digitizing 4k reports/hour"
+            }
+        },
+        {
+            "start_date":
+            {
+                "year":"2022",
+                "month":"9"
+            },
+            "media":
+            {
+                "url":"https://miro.medium.com/max/1000/1*d6tqQqSjxBQ8kvcWjLjm8w.png",
+                "credit":"Tata 1mg",
+                "thumbnail":":tada:"
+            },
+            "text":
+            {
+                "headline":"The American Dream",
+                "text":"Enrolled in Northeastern University to pursue a Master's degree in Information Systems. Focused on advancing my skills in the development of intelligent applications and scaling through cloud computing technology, while immersing myself in the diverse cultural tapestry of one of America's most vibrant cities"
+            }
+        }
+    ]
+}    
+
