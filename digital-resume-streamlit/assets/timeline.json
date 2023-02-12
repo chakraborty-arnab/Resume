@@ -10,14 +10,21 @@
         "media":
         {
             "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/BE-grad.jpg?raw=true",
-            "credit":"Convocation Ceremony, Mumbai",
-            "link":"https://mu.ac.in/"
+            "title":"Undergraduate Convocation Ceremony, Mumbai",
+            "caption":"Undergraduate Convocation Ceremony, Mumbai",
+            "link":"https://mu.ac.in/",
+            "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/grad.png?raw=true"
         },
         "text":
         {
-            "headline":"Bachelor's in Computer Engineering Conferred!",
-            "text":"Completed Bachelor of Engineering in Computer Science from Mumbai University and mastered a diverse range of subjects including web design, database management, cloud computing, AI & ML."
-        }
+            "headline":"Bachelor's Conferred!",
+            "text":"Completed Bachelor of Engineering in Computer Engineering from Mumbai University and mastered a diverse range of subjects including web design, database management, cloud computing, AI & ML."
+        },
+        "background":
+        {
+            "url":"https://t4.ftcdn.net/jpg/04/33/26/13/360_F_433261324_6RBsGNlqPck1dm0Vzoe3JV26XyUdbbUX.jpg"
+        },
+        "group":"Education"
         },
         {
             "start_date":
@@ -27,15 +34,22 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/joined-Q.jpeg?raw=true",
-                "credit":"First Day at work",
-                "link":"https://quantiphi.com/#home"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/day1.jpg?raw=true",
+                "title":"First Day at work",
+                "caption":"First Day at work",
+                "link":"https://quantiphi.com/#home",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/work.png?raw=true"
             },
             "text":
             {
                 "headline":"A Fresh Face in AI",
-                "text":"Debuted at Quantiphi, an award-winning Applied AI and Software Services company, as a Business Analyst in June 2019. My role could be summed up better as a 'Synthetic Unicorn', a term coined by Quantiphi to underline a remarkable professional with in-depth expertise in data engineering, statistics and business, collaborating to chase innovation"
-            }
+                "text":"Debuted at Quantiphi, an award-winning Applied AI and Software Services company, as a Business Analyst. My role could be summed up better as a 'Synthetic Unicorn', a term coined by Quantiphi to underline a remarkable professional with in-depth expertise in data engineering, statistics and business, collaborating to chase innovation"
+            },
+            "background":
+            {
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/ai.jpg?raw=true"
+            },
+            "group":"Work"
         },
         {
             "start_date":
@@ -46,14 +60,21 @@
             "media":
             {
                 "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/GCP-ACE.png?raw=true",
-                "credit":"GCP Associate Cloud Engineer",
-                "link":"https://www.credential.net/d8acaa5e-b8e1-43f2-92ed-f9fd4e5a2608?key=4f664fdad65853f47be8b7f39f4874a3d422760ecf78cda983c40b3c9f7f27fa"
+                "title":"GCP Associate Cloud Engineer",
+                "caption":"GCP Associate Cloud Engineer",
+                "link":"https://www.credential.net/d8acaa5e-b8e1-43f2-92ed-f9fd4e5a2608?key=4f664fdad65853f47be8b7f39f4874a3d422760ecf78cda983c40b3c9f7f27fa",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cloud.png?raw=true"
             },
             "text":
             {
                 "headline":"Navigating the Clouds",
                 "text":"Successfully completed Google Cloud Platform (GCP) Associate Cloud Engineer certification, demonstrating proficiency in using GCP tools and services to migrate and deploy applications, monitor resource utilization, and ensure security and compliance"
-            }
+            },
+            "background":
+            {
+                "url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/elastic-hero-2.max-1000x1000.png"
+            },
+            "group":"Certification"
         },
         {
             "start_date":
@@ -64,14 +85,21 @@
             "media":
             {
                 "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/Tableau.png?raw=true",
-                "credit":"Tableau Desktop Specialist",
-                "link":"https://www.credly.com/badges/8fda551d-d84d-47d4-94da-1f44964ae6b9/linked_in_profile"
+                "title":"Tableau Desktop Specialist",
+                "caption":"Tableau Desktop Specialist",
+                "link":"https://www.credly.com/badges/8fda551d-d84d-47d4-94da-1f44964ae6b9/linked_in_profile",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/data.png?raw=true"
             },
             "text":
             {
                 "headline":"Data Savvy and Certified",
-                "text":"Completed the Tableau Desktop Specialist certification, demonstrating expertise in utilizing the Tableau platform to effectively create, manage, and publish interactive data visualizations and dashboards. Acquired advanced skills in delivering data-driven insights to drive informed decisions for businesses."
-            }
+                "text":"Completed the Tableau Desktop Specialist certification. Demonstrated expertise in utilizing the Tableau platform to effectively create, manage, and publish interactive data visualizations and dashboards delivering data-driven insights to drive informed decisions for businesses."
+            },
+            "background":
+            {
+                "url":"https://blog.tipranks.com/wp-content/uploads/2022/08/shutterstock_1660588657-750x399.jpg"
+            },
+            "group":"Certification"
         },
         {
             "start_date":
@@ -81,14 +109,46 @@
             },
             "media":
             {
-                "url":"https://miro.medium.com/max/1000/1*d6tqQqSjxBQ8kvcWjLjm8w.png",
-                "credit":"Tata 1mg"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/teamQ.jpg?raw=true",
+                "title":"With team in Mumbai Office",
+                "caption":"Tableau Desktop Specialist",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/promotion.jpg?raw=true"
             },
             "text":
             {
-                "headline":"Transitioning to a Leadership Role",
-                "text":"This involved extracting lab parameters from pdf reports received by Tata 1mg. An inhouse solution Lab Labeler was devised using Airflow & AWS Lambda digitizing 4k reports/hour"
-            }
+                "headline":"Leading from the Front",
+                "text":"Formed and led a team of elite Data and Machine Learning Engineers to develop and productionize Big Data & AI/ML solutions for the Retail/CPG Industry"
+            },
+            "background":
+            {
+                "url":"https://online.alvernia.edu/wp-content/uploads/2019/07/Charismatic-Leadership-Theory-ALV.png"
+            },
+            "group":"Work"
+        },
+        {
+            "start_date":
+            {
+                "year":"2022",
+                "month":"3"
+            },
+            "media":
+            {
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/CEO.jpg?raw=true",
+                "title":"With Brett Findley (CONA Services CEO)",
+                "caption":"With Brett Findley (CONA Services CEO)",
+                "link":"https://www.linkedin.com/posts/arnab-chakraborty13_it-innovation-datascience-activity-6928042518102044673-Zofc?utm_source=share&utm_medium=member_desktop",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/award.png?raw=true"
+            },
+            "text":
+            {
+                "headline":"Client Recognition flows in",
+                "text":"Awarded by CONA Services CEO Brett Findley & CEO Emeritus Reinhard Meister for outstanding dedication and commitment towards developing Innovative AI solutions for Retail Customers and Consumers"
+            },
+            "background":
+            {
+                "url":"https://cdna.artstation.com/p/assets/images/images/026/049/810/large/trinath-sarkar-coca-f-01.jpg?1587730601"
+            },
+            "group":"Work"
         },
         {
             "start_date":
@@ -98,15 +158,22 @@
             },
             "media":
             {
-                "url":"https://miro.medium.com/max/1000/1*d6tqQqSjxBQ8kvcWjLjm8w.png",
-                "credit":"Tata 1mg",
-                "thumbnail":":tada:"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/neu.jpg?raw=true",
+                "title":"Northeastern University, Boston",
+                "caption":"Northeastern University, Boston",
+                "link":"https://www.northeastern.edu/",
+                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/masters.png?raw=true"
             },
             "text":
             {
                 "headline":"The American Dream",
                 "text":"Enrolled in Northeastern University to pursue a Master's degree in Information Systems. Focused on advancing my skills in the development of intelligent applications and scaling through cloud computing technology, while immersing myself in the diverse cultural tapestry of one of America's most vibrant cities"
-            }
+            },
+            "background":
+            {
+                "url":"https://www.sgclark.com/blog/wp-content/uploads/2017/04/ncaa_northeastern_university_huskies.png"
+            },
+            "group":"Education"
         }
     ]
 }    
