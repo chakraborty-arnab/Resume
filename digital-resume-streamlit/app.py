@@ -5,7 +5,15 @@ from streamlit_timeline import timeline
 import io
 from PIL import Image
 
-image=Image.open("./assets/icon.png")
+# --- PATH SETTINGS ---
+current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+css_file = current_dir / "styles" / "main.css"
+resume_file = current_dir / "assets" / "CV.pdf"
+profile_pic = current_dir / "assets" / "display.png"
+timeline_file = current_dir / "assets" / "timeline.json"
+icon = current_dir / "assets" / "icon.png"
+
+image=Image.open(icon)
 
 st.set_page_config(page_title="Arnab Chakraborty", page_icon=image, layout="wide")
 
@@ -24,13 +32,6 @@ def add_bg_from_local(image_file):
     unsafe_allow_html=True
     )
 add_bg_from_local("./assets/bg3.jpg")
-
-# --- PATH SETTINGS ---
-current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "CV.pdf"
-profile_pic = current_dir / "assets" / "display.png"
-timeline_file = current_dir / "assets" / "timeline.json"
 
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/arnab-chakraborty13/",
