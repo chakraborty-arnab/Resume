@@ -9,7 +9,7 @@
         },
         "media":
         {
-            "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/BE-grad.jpg?raw=true",
+            "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/timeline-grad.png?raw=true",
             "title":"Undergraduate Convocation Ceremony, Mumbai",
             "caption":"Undergraduate Convocation Ceremony, Mumbai",
             "link":"https://mu.ac.in/",
@@ -34,7 +34,7 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/day1.jpg?raw=true",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/timeline-Q.png?raw=true",
                 "title":"First Day at work",
                 "caption":"First Day at work",
                 "link":"https://quantiphi.com/#home",
@@ -109,7 +109,7 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cona.jpg?raw=true",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/timeline-team.png?raw=true",
                 "title":"Team celebration, Mumbai",
                 "caption":"Team celebration, Mumbai",
                 "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/promotion.jpg?raw=true"
@@ -133,7 +133,7 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/CEO.jpg?raw=true",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/timeline-award.png?raw=true",
                 "title":"With Brett Findley (CONA Services CEO)",
                 "caption":"With Brett Findley (CONA Services CEO)",
                 "link":"https://www.linkedin.com/posts/arnab-chakraborty13_it-innovation-datascience-activity-6928042518102044673-Zofc?utm_source=share&utm_medium=member_desktop",
@@ -141,7 +141,7 @@
             },
             "text":
             {
-                "headline":"Client Recognition flows in",
+                "headline":"A Small Pat on the back",
                 "text":"Awarded by CONA Services CEO Brett Findley & CEO Emeritus Reinhard Meister for outstanding dedication and commitment towards developing Innovative AI solutions for Retail Customers and Consumers"
             },
             "background":
@@ -158,7 +158,7 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/boston.jpg?raw=true",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/timeline-neu.png?raw=true",
                 "title":"Northeastern University, Boston",
                 "caption":"Northeastern University, Boston",
                 "link":"https://www.northeastern.edu/",

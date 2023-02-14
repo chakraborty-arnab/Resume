@@ -12,7 +12,7 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "display.png"
 timeline_file = current_dir / "assets" / "timeline.json"
 icon = current_dir / "assets" / "icon.png"
-bg = current_dir / "assets" / "bg3.jpg"
+bg = current_dir / "assets" / "bg.jpg"
 
 image=Image.open(icon)
 
@@ -90,7 +90,7 @@ def txt3(a, b):
     st.markdown(b)
   
 # --- HERO SECTION ---
-col1, col2, col3, col4 = st.columns([1.5,1,1.5,1], gap="medium")
+col1, col2, col3, col4 = st.columns([1.3,1,1.5,1], gap="medium")
 with col2:
     st.image(profile_pic, width=250)
 
@@ -118,18 +118,18 @@ with rcol:
 
 # --- Introduction  ---
 st.write('\n')
-st.subheader("A few things about me...📝",anchor="about-me")
+st.subheader("A few ~~Bugs~~ Features about me...📝",anchor="about-me")
 st.write("---")
 st.info(''' 
 
-#### It's a ~~Bug~~ Feature
+I'm not another Random Forest in this world of Over-fitting. 
 
-Not another Random Forest in this world of Over-fitting. 
+I have more than **three years** of experience leading a team of 20+ highly skilled engineers at **Quantiphi**, an award-winning AI-first digital engineering company. 
+In my role, I enable modern enterprises to solve convoluted business problems by building highly-scalable data-intensive applications and services in diverse industries.
+
+I'm presently pursuing a **Master's degree** in Computer Software engineering at **Northeastern University**. 
 
 My motivation stems from the necessity of using data to make better decisions and grow these offerings to a wider audience. I firmly believe in placing the customer at the heart of everything I do.
-
-I'm presently pursuing a Master's degree in Computer Software engineering at Northeastern University. I have more than three years of experience leading a team of 20+ highly skilled engineers at Quantiphi, an award-winning AI-first digital engineering company. 
-In my role, I enable modern enterprises to solve convoluted business problems by building highly-scalable data-intensive applications and services in diverse industries.
 
 My hobbies include lifting weights and constantly investing all my hard-earned money into the stock market hoping to make a fortune!
 ''')
@@ -198,7 +198,7 @@ Quantiphi, Jun 2021 - May 2022
   )
 
   # ---- CONTACT ----
-st.header("Get In Touch With Me!👋🏻",anchor="contact")
+st.header("Get In Touch With Me! 👋🏻",anchor="contact")
 st.write("---") 
 
 contact_form = """
@@ -210,13 +210,22 @@ contact_form = """
         <button type="submit">Send</button>
     </form>
     """
-left, mid, right = st.columns(3)
+left, mid, right = st.columns([1.5,0.5,1.5])
 with left:
     st.markdown(contact_form, unsafe_allow_html=True)
 with right:
-    st.subheader("Social Media")
-    for platform, link in SOCIAL_MEDIA.items():
-          st.write(f"[{platform}]({link})")  
+      st.markdown('''
+      <h4 style="background-image: url('https://www.shutterstock.com/shutterstock/videos/1024128356/thumb/6.jpg?ip=x480'); color:red; text-align:center">
+      Social Media📱
+      <br><br>
+
+      [LinkedIn](https://www.linkedin.com/in/arnab-chakraborty13/) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      [Kaggle](https://www.kaggle.com/chakrabortyarnab) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      [GitHub](https://github.com/chakraborty-arnab)
+      <br><br><br><br><br>
+      </h4>
+
+      ''',unsafe_allow_html=True)
 
 with open(css_file) as f:
   st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
