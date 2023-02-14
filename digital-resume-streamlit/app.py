@@ -34,12 +34,6 @@ def add_bg_from_local(image_file):
     )
 add_bg_from_local(bg)
 
-SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/arnab-chakraborty13/",
-    "Kaggle": "https://www.kaggle.com/chakrabortyarnab",
-    "GitHub": "https://github.com/chakraborty-arnab"
-}
-
 # Navigation
 st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
 
@@ -219,7 +213,6 @@ with right:
       [GitHub](https://github.com/chakraborty-arnab)
       <br><br><br><br><br>
       </h4>
-
       ''',unsafe_allow_html=True)
 
 with open(css_file) as f:
