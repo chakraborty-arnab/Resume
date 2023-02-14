@@ -218,7 +218,7 @@ with right:
     for platform, link in SOCIAL_MEDIA.items():
           st.write(f"[{platform}]({link})")  
 
-with open("./styles/main.css") as f:
+with open(css_file) as f:
   st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
 a,b=st.columns([1,1.3])  
