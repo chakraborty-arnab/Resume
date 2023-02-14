@@ -112,17 +112,11 @@ with rcol:
     mime="application/octet-stream",
   )  
 
-#   st.subheader("Connect👋🏻")
-#   for platform, link in SOCIAL_MEDIA.items():
-#     st.write(f"[{platform}]({link})")  
-
 # --- Introduction  ---
 st.write('\n')
 st.subheader("A few ~~Bugs~~ Features about me...📝",anchor="about-me")
 st.write("---")
 st.info(''' 
-
-I'm not another Random Forest in this world of Over-fitting. 
 
 I have more than **three years** of experience leading a team of 20+ highly skilled engineers at **Quantiphi**, an award-winning AI-first digital engineering company. 
 In my role, I enable modern enterprises to solve convoluted business problems by building highly-scalable data-intensive applications and services in diverse industries.
@@ -215,6 +209,7 @@ with left:
     st.markdown(contact_form, unsafe_allow_html=True)
 with right:
       st.markdown('''
+      <br>
       <h4 style="background-image: url('https://www.shutterstock.com/shutterstock/videos/1024128356/thumb/6.jpg?ip=x480'); color:red; text-align:center">
       Social Media📱
       <br><br>
