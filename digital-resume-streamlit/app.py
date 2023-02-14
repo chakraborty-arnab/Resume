@@ -12,6 +12,7 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "display.png"
 timeline_file = current_dir / "assets" / "timeline.json"
 icon = current_dir / "assets" / "icon.png"
+bg = current_dir / "assets" / "bg3.jpg"
 
 image=Image.open(icon)
 
@@ -31,7 +32,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local("./assets/bg3.jpg")
+add_bg_from_local(bg)
 
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/arnab-chakraborty13/",
