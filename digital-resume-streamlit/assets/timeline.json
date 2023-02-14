@@ -22,7 +22,7 @@
         },
         "background":
         {
-            "url":"https://t4.ftcdn.net/jpg/04/33/26/13/360_F_433261324_6RBsGNlqPck1dm0Vzoe3JV26XyUdbbUX.jpg"
+            "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/grad-background.jpg?raw=true"
         },
         "group":"Education"
         },
@@ -72,7 +72,7 @@
             },
             "background":
             {
-                "url":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/elastic-hero-2.max-1000x1000.png"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cloud-background.png?raw=true"
             },
             "group":"Certification"
         },
@@ -97,7 +97,7 @@
             },
             "background":
             {
-                "url":"https://blog.tipranks.com/wp-content/uploads/2022/08/shutterstock_1660588657-750x399.jpg"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/bi-background.jpg?raw=true"
             },
             "group":"Certification"
         },
@@ -109,9 +109,9 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/teamQ.jpg?raw=true",
-                "title":"With team in Mumbai Office",
-                "caption":"Tableau Desktop Specialist",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cona.jpg?raw=true",
+                "title":"Team celebration, Mumbai",
+                "caption":"Team celebration, Mumbai",
                 "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/promotion.jpg?raw=true"
             },
             "text":
@@ -121,7 +121,7 @@
             },
             "background":
             {
-                "url":"https://online.alvernia.edu/wp-content/uploads/2019/07/Charismatic-Leadership-Theory-ALV.png"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/lead-bg.png?raw=true"
             },
             "group":"Work"
         },
@@ -146,7 +146,7 @@
             },
             "background":
             {
-                "url":"https://cdna.artstation.com/p/assets/images/images/026/049/810/large/trinath-sarkar-coca-f-01.jpg?1587730601"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/coke-bg.jpg?raw=true"
             },
             "group":"Work"
         },
@@ -158,7 +158,7 @@
             },
             "media":
             {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/neu.jpg?raw=true",
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/boston.jpg?raw=true",
                 "title":"Northeastern University, Boston",
                 "caption":"Northeastern University, Boston",
                 "link":"https://www.northeastern.edu/",
@@ -171,7 +171,7 @@
             },
             "background":
             {
-                "url":"https://www.sgclark.com/blog/wp-content/uploads/2017/04/ncaa_northeastern_university_huskies.png"
+                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/neu-bg.png?raw=true"
             },
             "group":"Education"
         }
