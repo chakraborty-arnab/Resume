@@ -2,7 +2,7 @@ from pathlib import Path
 import base64
 import streamlit as st
 from streamlit_timeline import timeline
-import io
+# import io
 from PIL import Image
 
 # --- PATH SETTINGS ---
@@ -76,8 +76,6 @@ profile_pic = Image.open(profile_pic)
 # Custom function for printing text
 def txt3(a, b):
   col0, col1, col2 = st.columns([0.5,1,3.5])
-  with col0:
-    st.empty()
   with col1:
     st.markdown('**<span style="color:#27278bff">' + a + '</span>**',unsafe_allow_html=True)
   with col2:
@@ -143,8 +141,6 @@ txt3('API/Web development', '`Node.js` `Express.js` `React` `Flask` `Django` `Fa
 txt3('Cloud/Data Warehouse', '`AWS` `Azure` `GCP` `Databricks` `Snowflake`')
 txt3('BI Tools', '`PowerBI` `Tableau` `Looker`')
 txt3('Business', '`Client Engagement` `Retail` `CPG` `Market Research` `Project Scoping` `Proposal Constructions` `Storyboarding`')
-
-
 
 # --- WORK HISTORY ---
 st.write('\n')

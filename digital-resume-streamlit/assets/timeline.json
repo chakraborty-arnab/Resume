@@ -54,56 +54,6 @@
         {
             "start_date":
             {
-                "year":"2019",
-                "month":"10"
-            },
-            "media":
-            {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/GCP-ACE.png?raw=true",
-                "title":"GCP Associate Cloud Engineer",
-                "caption":"GCP Associate Cloud Engineer",
-                "link":"https://www.credential.net/d8acaa5e-b8e1-43f2-92ed-f9fd4e5a2608?key=4f664fdad65853f47be8b7f39f4874a3d422760ecf78cda983c40b3c9f7f27fa",
-                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cloud.png?raw=true"
-            },
-            "text":
-            {
-                "headline":"Navigating the Clouds",
-                "text":"Successfully completed Google Cloud Platform (GCP) Associate Cloud Engineer certification, demonstrating proficiency in using GCP tools and services to migrate and deploy applications, monitor resource utilization, and ensure security and compliance"
-            },
-            "background":
-            {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/cloud-background.png?raw=true"
-            },
-            "group":"Certification"
-        },
-        {
-            "start_date":
-            {
-                "year":"2020",
-                "month":"01"
-            },
-            "media":
-            {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/Tableau.png?raw=true",
-                "title":"Tableau Desktop Specialist",
-                "caption":"Tableau Desktop Specialist",
-                "link":"https://www.credly.com/badges/8fda551d-d84d-47d4-94da-1f44964ae6b9/linked_in_profile",
-                "thumbnail":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/data.png?raw=true"
-            },
-            "text":
-            {
-                "headline":"Data Savvy and Certified",
-                "text":"Completed the Tableau Desktop Specialist certification. Demonstrated expertise in utilizing the Tableau platform to effectively create, manage, and publish interactive data visualizations and dashboards delivering data-driven insights to drive informed decisions for businesses."
-            },
-            "background":
-            {
-                "url":"https://github.com/chakraborty-arnab/Resume/blob/main/digital-resume-streamlit/assets/bi-background.jpg?raw=true"
-            },
-            "group":"Certification"
-        },
-        {
-            "start_date":
-            {
                 "year":"2021",
                 "month":"6"
             },
