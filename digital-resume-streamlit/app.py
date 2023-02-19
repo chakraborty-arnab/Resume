@@ -92,6 +92,7 @@ with col3:
     st.write("\n")
     st.title("Arnab Chakraborty",anchor="title")
     st.write("##### Another <span style='color:green'>**Random Forest**</span> in this <span style='color:red'>World of Overfitting</span>! 🏞️",unsafe_allow_html=True)
+    # st.write("### &ensp;&ensp; Making <span style='color:red'> **IT** </span> Happen! 🤖", unsafe_allow_html=True)
     st.write("\n")
 
 lcol,rcol = st.columns([1,1.4])
@@ -110,7 +111,7 @@ st.subheader("A few ~~Bugs~~ Features about me...📝",anchor="about-me")
 st.write("---")
 st.info(''' 
 
-I have **4+ years** of experience leading a team of 20+ highly skilled engineers at **Quantiphi**, an award-winning AI-first digital engineering company. 
+I have more than **three years** of experience leading a team of 20+ highly skilled engineers at **Quantiphi**, an award-winning AI-first digital engineering company. 
 In my role, I enable modern enterprises to solve convoluted business problems by building highly-scalable data-intensive applications and services in diverse industries.
 
 I'm presently pursuing a **Master's degree** in Computer Software engineering at **Northeastern University**. 
@@ -204,10 +205,9 @@ with right:
       Social Media📱
       <br><br>
 
-      [LinkedIn](https://www.linkedin.com/in/arnab-chakraborty13/) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      [Kaggle](https://www.kaggle.com/chakrabortyarnab) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      [LinkedIn](https://www.linkedin.com/in/arnab-chakraborty13/) <br><br>
+      [Kaggle](https://www.kaggle.com/chakrabortyarnab) <br><br>
       [GitHub](https://github.com/chakraborty-arnab)
-      <br><br><br><br><br>
       </h4>
       ''',unsafe_allow_html=True)
 
