@@ -91,7 +91,7 @@ with col3:
     st.write("\n")
     st.write("\n")
     st.title("Arnab Chakraborty🥷",anchor="title")
-    st.write("##### Another <span style='color:green'>**Random Forest**🌲🌲</span> in this <span style='color:red'>World of Overfitting</span>!",unsafe_allow_html=True)
+    st.write("##### Another <span style='color:green'>🌲**Random Forest**🌲</span> in this <span style='color:red'>World of Overfitting</span>!",unsafe_allow_html=True)
     st.write("\n")
 
 lcol,rcol = st.columns([1,1.4])
