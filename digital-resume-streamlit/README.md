@@ -1,11 +1,7 @@
 # Arnab's Resume
 
 ## Requirements
-Install the dependencies with pip
-```
-Pillow==9.2.0
-streamlit==1.12.0
-```
+pip install -r requirements.txt
 
 ## Run the app
 Terminal
