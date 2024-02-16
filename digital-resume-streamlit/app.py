@@ -2,7 +2,6 @@ from pathlib import Path
 import base64
 import streamlit as st
 from streamlit_timeline import timeline
-# import io
 from PIL import Image
 
 # --- PATH SETTINGS ---
@@ -110,14 +109,13 @@ st.subheader("A few ~~Bugs~~ Features about me...📝",anchor="about-me")
 st.write("---")
 st.info(''' 
 
-I have **4+ years** of experience leading a team of 20+ highly skilled engineers at **Quantiphi**, an award-winning AI-first digital engineering company. 
-In my role, I enable modern enterprises to solve convoluted business problems by building highly-scalable data-intensive applications and services in diverse industries.
+I'm currently pursuing a Master's degree in Computer Software engineering at Northeastern University.
 
-I'm presently pursuing a **Master's degree** in Computer Software engineering at **Northeastern University**. 
+Simultaneously, I drive Fidelity's efforts to facilitate institutional clients' access, evaluate and invest in private alternative investments. As a part of the Enterprise AI Capabilities team, I’m developing innovative speech & language processing solutions to empower customer support associates.
 
-My motivation stems from the necessity of using data to make better decisions and grow these offerings to a wider audience. I firmly believe in placing the customer at the heart of everything I do.
+Before this, I led a team of 20+ highly skilled engineers at Quantiphi, building highly-scalable, data-intensive applications and services across diverse industries.
 
-My hobbies include lifting weights and constantly investing all my hard-earned money into the stock market hoping to make a fortune!
+I enjoy applying my knowledge to algorithmic trading and developing strategies that consistently outperform the market.
 ''')
 
 # --- Career Timeline  ---
